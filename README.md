@@ -14,14 +14,13 @@
 <h2 align="center">
 :calling: Contact me
 </h2>
-<div align="center">
-  shuheng_mo_mail@163.com  <br>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white"/> <br>
-w11470429    
+<div>
+ <ul>
+  <li><b>Personal Email</b>: shuheng_mo_mail@163.com </li>
+  <a href="https://github.com/M0JaX999429"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <br>
+  <a href="https://web.wechat.com/"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a> <br>
+  <b>WeChat#</b>: w11470429
+ </ul>
 </div>
 
 <h2 align = "center"> 
